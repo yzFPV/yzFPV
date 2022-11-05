@@ -9,4 +9,3 @@ yzFPV/yzFPV is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 hi
-[hakrcf7..io(1).txt](https://github.com/yzFPV/yzFPV/files/9942541/hakrcf7.io.1.txt)
